@@ -1,0 +1,14 @@
+
+​
+.field-form {
+    border: 2px solid rgba(163, 160, 160, 0.671);
+    padding: 2rem;
+}
+​
+.limit-size {
+    width: 1em;
+}
+
+.form-inline{
+    flex-flow: row nowrap;
+}
